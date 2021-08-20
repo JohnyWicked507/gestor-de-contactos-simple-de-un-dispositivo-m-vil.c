@@ -1,0 +1,2 @@
+# gestor-de-contactos-simple-de-un-dispositivo-m-vil.c
+aplicación de línea de comandos en C que simule un gestor de contactos simple de un dispositivo móvil. Esta programa debe permitir agregar nuevos registros, listarlos, modificarlos, buscar contactos guardados, eliminar registros telefónicos. Tome en consideración que la información personal por almacenar debe ser nombre, teléfono y correo electrónico.
